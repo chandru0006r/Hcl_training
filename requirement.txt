@@ -1,0 +1,5 @@
+it is a ecommerce application
+module 1:login
+module 2: search product
+module 3: add to cart
+
